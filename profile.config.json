@@ -1,67 +1,72 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Aimar Noor Rayyan Guritno",
+    "username": "aimarnrg-prog",
+    "headline": "Full-stack Web Developer",
+    "affiliation": "Independent",
+    "location": "Indonesia",
+    "status": "Building full-stack web apps",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build full-stack web applications with a focus on practical interfaces, backend services, and reliable data integration.",
+      "I am also exploring conversational AI and data processing systems that make complex information easier to understand and everyday tasks faster to complete."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Software Engineering",
+    "direction": "Full-stack web development",
+    "themes": "UI/UX / backend / databases",
+    "narrative": "I am focused on building complete web applications, from responsive user interfaces to backend APIs and database integrations that support useful real-world workflows."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Full-stack Products",
+      "description": "Building practical web applications from frontend interface to backend services."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Frontend Engineering",
+      "description": "Responsive interfaces, interaction design, and clear user experiences."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Backend APIs",
+      "description": "Server-side features, database integration, and application data flows."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
-    },
-    {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "name": "Tabungan Mimpiku",
+      "url": "https://github.com/imalzcool16-prog/Tabungan-Mimpiku",
+      "homepage": "https://tabungan-mimpiku-production.up.railway.app",
+      "focus": "Full-stack savings application",
+      "summary": "A web-based savings application with a glassmorphism interface and interactive frontend built with HTML, CSS, and JavaScript, supported by Node.js, Express.js, MongoDB, and Mongoose backend features.",
+      "heroLabel": "Full-stack application"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "PHP",
+    "REST APIs",
+    "MongoDB",
+    "Mongoose",
+    "MySQL",
+    "Git",
+    "GitHub",
+    "Vercel",
+    "Railway",
+    "MongoDB Atlas",
+    "Responsive Web Design",
+    "Basic Networking"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "aimarnrg-prog",
+      "url": "https://github.com/aimarnrg-prog",
       "logo": "github",
       "color": "0B1220"
     }
@@ -71,7 +76,7 @@
     "limit": 6
   },
   "appearance": {
-    "palette": "signal"
+    "palette": "ocean"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building practical web applications and learning by shipping."
 }
