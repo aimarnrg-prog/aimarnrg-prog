@@ -1,41 +1,37 @@
-<div align="center">
+ <div align="center">
 
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:312E81,70:6D28D9,100:4338CA&text=Aimar%20Noor%20Rayyan%20Guritno&fontColor=FFFFFF&fontSize=36&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&descSize=15&descAlignY=57&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" alt="Aimar Noor Rayyan Guritno Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:03045E,25:023E8A,50:0077B6,75:0096C7,100:00B4D8&text=Aimar%20Noor%20Rayyan%20Guritno&fontColor=FFFFFF&fontSize=36&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&descSize=15&descAlignY=57&animation=fadeIn" alt="Aimar Noor Rayyan Guritno Header"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Software+That+Solves+Real+Problems;Full+Stack+Development+%7C+Backend+Engineering;Exploring+Artificial+Intelligence+%26+Machine+Learning;Designing+Scalable+Systems+%26+Developer+Tools;Learn.+Build.+Ship.+Improve." alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+Software+That+Solves+Real+Problems;Full+Stack+Development+%7C+Backend+Engineering;Exploring+Artificial+Intelligence+%26+Machine+Learning;Designing+Scalable+Systems+%26+Developer+Tools;Learn.+Build.+Ship.+Improve." alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/EDUCATION-SMK%20Bina%20Informatika-312E81?style=flat-square&logo=bookstack&logoColor=white" alt="Education"/>
-<img src="https://img.shields.io/badge/PROGRAM-Software%20Development-4338CA?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Program"/>
-<img src="https://img.shields.io/badge/LOCATION-Indonesia-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/EDUCATION-SMK%20Bina%20Informatika-03045E?style=flat-square&logo=bookstack&logoColor=FFFFFF" alt="Education"/>
+<img src="https://img.shields.io/badge/PROGRAM-Software%20Development-023E8A?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF" alt="Program"/>
+<img src="https://img.shields.io/badge/LOCATION-Indonesia-0077B6?style=flat-square&logo=googlemaps&logoColor=FFFFFF" alt="Location"/>
 
 <br/><br/>
 
 <a href="https://github.com/aimarnrg-prog">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0077B6?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/aimar-noor-rayyan-guritno-30b8aa3aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-023E8A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 <a href="mailto:imalz.cool16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-0096C7?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
 </a>
 <a href="https://github.com/aimarnrg-prog">
-  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-03045E?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aimarnrg-prog&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/aimarnrg-prog?style=flat-square&color=4338CA&label=FOLLOWERS" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/aimarnrg-prog?style=flat-square&color=5B21B6&label=TOTAL+STARS" alt="GitHub Stars"/>
+<img src="https://komarev.com/ghpvc/?username=aimarnrg-prog&label=PROFILE%20VIEWS&color=0077B6&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/aimarnrg-prog?style=flat-square&color=023E8A&label=FOLLOWERS" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/aimarnrg-prog?style=flat-square&color=0096C7&label=TOTAL+STARS" alt="GitHub Stars"/>
 
 </div>
 
@@ -70,25 +66,25 @@ My primary focus is developing practical applications that combine intuitive use
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css&theme=dark" alt="Programming Languages"/>
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="Frontend Technologies"/>
 </p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" alt="Backend and Database Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" alt="Backend and Database Technologies"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel,netlify&theme=dark" alt="Developer Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel,netlify&theme=dark" alt="Developer Tools"/>
 </p>
 
 ### Engineering Principles
@@ -317,25 +313,25 @@ Developing independent projects to strengthen practical engineering skills and l
 ### AWS
 
 <a href="https://www.credly.com/organizations/amazon-web-services">
-  <img src="https://img.shields.io/badge/AWS-Certifications-312E81?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certifications"/>
+<img src="https://img.shields.io/badge/AWS-Certifications-03045E?style=flat-square&logo=amazonaws&logoColor=FFFFFF" alt="AWS Certifications"/>
 </a>
 
 ### Oracle
 
 <a href="https://education.oracle.com/">
-  <img src="https://img.shields.io/badge/Oracle-Learning%20%26%20Certifications-4338CA?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Certifications"/>
+<img src="https://img.shields.io/badge/Oracle-Learning%20%26%20Certifications-023E8A?style=flat-square&logo=oracle&logoColor=FFFFFF" alt="Oracle Certifications"/>
 </a>
 
 ### NPTEL
 
 <a href="https://nptel.ac.in/">
-  <img src="https://img.shields.io/badge/NPTEL-Online%20Courses-5B21B6?style=flat-square&logo=academia&logoColor=white" alt="NPTEL Courses"/>
+<img src="https://img.shields.io/badge/NPTEL-Online%20Courses-0077B6?style=flat-square&logo=academia&logoColor=FFFFFF" alt="NPTEL Courses"/>
 </a>
 
 ### Cisco
 
 <a href="https://www.netacad.com/">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-4F46E5?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking Academy"/>
+<img src="https://img.shields.io/badge/Cisco-Networking%20Academy-0096C7?style=flat-square&logo=cisco&logoColor=FFFFFF" alt="Cisco Networking Academy"/>
 </a>
 
 *These are links to certification and learning providers, not claims of certifications already earned. Verified credentials can be listed here as they are completed.*
@@ -347,19 +343,19 @@ Developing independent projects to strengthen practical engineering skills and l
 <div align="center">
 
 <a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-312E81?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-03045E?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="LeetCode"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Computer%20Science-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Computer%20Science-023E8A?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF" alt="GeeksforGeeks"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-0077B6?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank"/>
 </a>
 
 <a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-0096C7?style=for-the-badge&logo=codechef&logoColor=FFFFFF" alt="CodeChef"/>
 </a>
 
 </div>
@@ -371,16 +367,16 @@ Developing independent projects to strengthen practical engineering skills and l
 <div align="center">
 
 <a href="https://github.com/aimarnrg-prog">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aimarnrg-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aimarnrg-prog&show_icons=true&hide_border=true&bg_color=03045E&title_color=00B4D8&icon_color=0096C7&text_color=FFFFFF&ring_color=0077B6&include_all_commits=true" alt="GitHub Statistics"/>
 </a>
 <a href="https://github.com/aimarnrg-prog">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimarnrg-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most Used Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimarnrg-prog&layout=compact&hide_border=true&bg_color=03045E&title_color=00B4D8&text_color=FFFFFF&langs_count=8" alt="Most Used Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/aimarnrg-prog">
-  <img width="70%" src="https://streak-stats.demolab.com?user=aimarnrg-prog&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Contribution Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=aimarnrg-prog&hide_border=true&background=03045E&stroke=023E8A&ring=00B4D8&fire=0096C7&currStreakLabel=00B4D8&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=90E0EF" alt="GitHub Contribution Streak"/>
 </a>
 
 </div>
@@ -392,7 +388,7 @@ Developing independent projects to strengthen practical engineering skills and l
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=aimarnrg-prog&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=aimarnrg-prog&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
 </a>
 
 </div>
@@ -404,7 +400,7 @@ Developing independent projects to strengthen practical engineering skills and l
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aimarnrg-prog&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aimarnrg-prog&bg_color=03045E&color=00B4D8&line=0077B6&point=90E0EF&area=true&area_color=023E8A&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph"/>
 </a>
 
 </div>
@@ -416,9 +412,9 @@ Developing independent projects to strengthen practical engineering skills and l
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimarnrg-prog/aimarnrg-prog/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimarnrg-prog/aimarnrg-prog/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/aimarnrg-prog/aimarnrg-prog/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimarnrg-prog/aimarnrg-prog/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimarnrg-prog/aimarnrg-prog/output/github-contribution-grid-snake.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/aimarnrg-prog/aimarnrg-prog/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
 </picture>
 
 </div>
@@ -469,3 +465,65 @@ principles:
   - Learn Through Implementation
   - Measure Before Optimizing
   - Improve Continuously
+```
+
+---
+
+## 14. Connect
+
+<div align="center">
+
+**Interested in software engineering, web development, or building useful technology?**
+
+Let's connect through the platforms below.
+
+<br/>
+
+<a href="mailto:imalz.cool16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-imalz.cool16%40gmail.com-03045E?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email Aimar"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/aimar-noor-rayyan-guritno-30b8aa3aa/">
+<img src="https://img.shields.io/badge/LinkedIn-Aimar%20Noor%20Rayyan%20Guritno-023E8A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Profile"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/aimarnrg-prog">
+<img src="https://img.shields.io/badge/GitHub-aimarnrg--prog-0077B6?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/aimarnrg-prog?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore%20My%20Code-0096C7?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories"/>
+</a>
+
+</div>
+
+---
+
+## 15. Footer
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,25:0096C7,50:0077B6,75:023E8A,100:03045E&height=120&section=footer" alt="Footer Banner"/>
+
+<br/>
+
+**"Great software is built through curiosity, disciplined engineering, and continuous improvement."**
+
+<br/>
+
+<sub>Designed with Markdown · Powered by GitHub · Built through continuous learning</sub>
+
+<br/><br/>
+
+<a href="https://github.com/aimarnrg-prog">
+<img src="https://img.shields.io/badge/BUILD-LEARN-03045E?style=flat-square" alt="Build and Learn"/>
+<img src="https://img.shields.io/badge/SHIP-IMPROVE-0077B6?style=flat-square" alt="Ship and Improve"/>
+</a>
+
+</div>
