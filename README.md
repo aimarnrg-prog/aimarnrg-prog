@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aimarnrg-prog&label=PROFILE%20VIEWS&color=0077B6&style=flat-square" alt="Profile Views"/>
+<img src="https://views.igorkowalczyk.dev/api/badge/aimarnrg-prog?color=0077B6&label=PROFILE+VIEWS&style=flat" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/aimarnrg-prog?style=flat-square&color=023E8A&label=FOLLOWERS" alt="GitHub Followers"/>
 <img src="https://img.shields.io/github/stars/aimarnrg-prog?style=flat-square&color=0096C7&label=TOTAL+STARS" alt="GitHub Stars"/>
 
