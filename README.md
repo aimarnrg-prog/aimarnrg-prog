@@ -10,11 +10,14 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/aimarnrg-prog">
+<a href="https://github.com/aimarnrg-prog">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-aimarnrg--prog-0B1220?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="mailto:emailkamu@gmail.com">
+<a href="https://linkedin.com/in/aimar-noor-rayyan-guritno-30b8aa3aa/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="[https://www.linkedin.com/in/username-lo/](http://linkedin.com/in/aimar-noor-rayyan-guritno-30b8aa3aa/](https://linkedin.com/in/aimar-noor-rayyan-guritno-30b8aa3aa/)">
+<a href="mailto:imalz.cool16@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
 
