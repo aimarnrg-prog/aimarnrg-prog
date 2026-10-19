@@ -110,7 +110,7 @@ My primary focus is developing practical applications that combine intuitive use
 
 ## Featured Projects
 
-### Project 01 — Tabungan Mimpiku
+### Project 01 — Tabungan Mimpiku ✅
 
 <details>
 <summary><strong>Personal Savings Management Platform</strong></summary>
@@ -159,7 +159,7 @@ The project originated from a personal savings goal and evolved into a full-stac
 
 </details>
 
-### Project 02 — Kasly.app
+### Project 02 — Kasly.app ✅
 
 <details>
 <summary><strong>Cash Management & Record-Keeping Application</strong></summary>
@@ -190,7 +190,7 @@ The design direction emphasizes accessible financial information, organized reco
 
 </details>
 
-### Project 03 — PawCare
+### Project 03 — PawCare ⛔️
 
 <details>
 <summary><strong>Petshop and clinic for animal</strong></summary>
