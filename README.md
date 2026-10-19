@@ -108,7 +108,7 @@ My primary focus is developing practical applications that combine intuitive use
 
 ---
 
-## 04. Featured Projects
+## Featured Projects
 
 ### Project 01 — Tabungan Mimpiku
 
@@ -159,7 +159,7 @@ The project originated from a personal savings goal and evolved into a full-stac
 
 </details>
 
-### Project 02 — Kasly
+### Project 02 — Kasly.app
 
 <details>
 <summary><strong>Cash Management & Record-Keeping Application</strong></summary>
@@ -190,16 +190,14 @@ The design direction emphasizes accessible financial information, organized reco
 
 </details>
 
-### Project 03 — Developer Portfolio
+### Project 03 — PawCare
 
 <details>
-<summary><strong>Personal Engineering Portfolio & Technical Identity</strong></summary>
+<summary><strong>Petshop and clinic for animal</strong></summary>
 
 <br/>
 
-A personal developer presence designed to showcase software projects, technical skills, development progress, and engineering interests.
-
-The portfolio strategy combines clear project documentation with a consistent visual identity and accessible repository links.
+Focusing on clinic, grooming, Foods & snack for cats, dogs, rabbit, and lots of more
 
 | Category | Details |
 |:---|:---|
@@ -208,7 +206,7 @@ The portfolio strategy combines clear project documentation with a consistent vi
 | Performance | Static Markdown and externally hosted widgets; no measured performance score |
 | Security | No secrets or private credentials should be embedded in public profile content |
 | Impact | Improves project discoverability and provides a centralized technical profile |
-| Repository | [GitHub Profile](https://github.com/aimarnrg-prog) |
+| Repository | [GitHub Profile]([https://github.com/aimarnrg-prog](https://github.com/aimarnrg-prog/PawCare)) |
 
 **Engineering Priorities**
 
@@ -220,31 +218,10 @@ The portfolio strategy combines clear project documentation with a consistent vi
 
 </details>
 
-### Project 04 — Future Engineering Projects
-
-<details>
-<summary><strong>AI-Powered Applications & Full-Stack Systems</strong></summary>
-
-<br/>
-
-An evolving project direction focused on combining full-stack engineering with practical AI capabilities.
-
-Potential areas include developer productivity tools, intelligent information systems, automation, and applications that make complex workflows easier to understand.
-
-| Category | Details |
-|:---|:---|
-| Stack | To be selected according to project requirements |
-| Scale | Research and development |
-| Performance | To be measured after implementation |
-| Security | Security requirements to be defined during system design |
-| Impact | Intended to solve practical problems through useful software |
-| Repository | [Explore Repositories](https://github.com/aimarnrg-prog?tab=repositories) |
-
-</details>
 
 ---
 
-## 05. Experience
+## Experience
 
 ### Software Development Student
 
@@ -308,7 +285,7 @@ Developing independent projects to strengthen practical engineering skills and l
 
 ---
 
-## 07. Certifications
+## Certifications
 
 ### AWS
 
@@ -338,7 +315,7 @@ Developing independent projects to strengthen practical engineering skills and l
 
 ---
 
-## 08. Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -362,7 +339,7 @@ Developing independent projects to strengthen practical engineering skills and l
 
 ---
 
-## 09. GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -383,7 +360,7 @@ Developing independent projects to strengthen practical engineering skills and l
 
 ---
 
-## 10. GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -395,7 +372,7 @@ Developing independent projects to strengthen practical engineering skills and l
 
 ---
 
-## 11. Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -407,7 +384,7 @@ Developing independent projects to strengthen practical engineering skills and l
 
 ---
 
-## 12. Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -421,7 +398,7 @@ Developing independent projects to strengthen practical engineering skills and l
 
 ---
 
-## 13. Current Focus
+##  Current Focus
 
 ```yaml
 profile:
@@ -469,7 +446,7 @@ principles:
 
 ---
 
-## 14. Connect
+## Connect
 
 <div align="center">
 
@@ -505,7 +482,7 @@ Let's connect through the platforms below.
 
 ---
 
-## 15. Footer
+## Footer
 
 <div align="center">
 
