@@ -78,7 +78,7 @@ My primary focus is developing practical applications that combine intuitive use
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" alt="Backend and Database Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and Database Technologies"/>
 </p>
 
 ### Cloud, DevOps & Tooling
