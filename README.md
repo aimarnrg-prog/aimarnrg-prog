@@ -84,7 +84,7 @@ My primary focus is developing practical applications that combine intuitive use
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel,netlify&theme=dark" alt="Developer Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel,netlify,railway&theme=dark" alt="Developer Tools"/>
 </p>
 
 ### Engineering Principles
