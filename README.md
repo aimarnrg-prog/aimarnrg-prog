@@ -37,7 +37,7 @@
 
 ---
 
-## 01. About Me
+## About Me
 
 I'm **Aimar Noor Rayyan Guritno**, a software development student at **SMK Bina Informatika** with a strong interest in software engineering, full-stack development, artificial intelligence, and building technology-driven products.
 
@@ -61,7 +61,7 @@ My primary focus is developing practical applications that combine intuitive use
 
 ---
 
-## 02. Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -93,7 +93,7 @@ My primary focus is developing practical applications that combine intuitive use
 
 ---
 
-## 03. AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
