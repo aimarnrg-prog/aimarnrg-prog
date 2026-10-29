@@ -190,7 +190,7 @@ The design direction emphasizes accessible financial information, organized reco
 
 </details>
 
-### Project 03 — PawCare ⛔️
+### Project 03 — PawCare ✅
 
 <details>
 <summary><strong>Petshop and clinic for animal</strong></summary>
