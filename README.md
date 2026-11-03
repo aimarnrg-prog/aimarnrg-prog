@@ -218,6 +218,11 @@ Focusing on clinic, grooming, Foods & snack for cats, dogs, rabbit, and lots of 
 
 </details>
 
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 ---
 
